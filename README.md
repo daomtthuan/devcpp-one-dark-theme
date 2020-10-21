@@ -1,2 +1,21 @@
-# devcpp-one-dark-theme
-One Dark Theme for Dev C++
+# One Dark Theme for Dev C++
+
+Dev C++ Theme based on Atom's One Dark theme.
+
+![Screenshot](https://github.com/daomtthuan/devcpp-one-dark-theme/blob/main/screenshot/Screenshot.png)
+
+## Usage
+
+1. Download [One Dark.syntax](https://raw.githubusercontent.com/daomtthuan/devcpp-one-dark-theme/main/One%20Dark.syntax) and move it to `C:\Users\<username>\AppData\Roaming\Dev-Cpp`.
+2. Go to Dev-C++ _Tools › Editor Options › Syntax › Color Speed Settings_ and select _One Dark_.
+3. Then config your editor options (optional)
+
+![Screenshot](https://github.com/daomtthuan/devcpp-one-dark-theme/blob/main/screenshot/Editor Options.png)
+
+4. Change font (optional)
+
+![Screenshot](https://github.com/daomtthuan/devcpp-one-dark-theme/blob/main/screenshot/Font.png)
+
+## License
+
+MIT
